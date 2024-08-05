@@ -1,0 +1,1 @@
+The script builds a tree of uplinks of an autonomous system.
