@@ -18,7 +18,7 @@ Builds a tree of uplinks of an autonomous system.
 * [requests](https://pypi.python.org/pypi/requests)
 
 ## Install
-Сlone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/Mammoth70/RIPE-uplinks.git
 cd RIPE-uplinks
