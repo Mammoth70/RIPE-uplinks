@@ -8,7 +8,7 @@
 [4]: https://pypi.python.org/pypi/requests
 [5]: https://img.shields.io/github/license/Mammoth70/RIPE-uplinks.svg
 [6]: LICENSE
-[7]: https://img.shields.io/github/languages/code-size/Mammoth70/RIPE-uplinks.svg
+[7]: https://img.shields.io/github/languages/code-size/Mammoth70/RIPE-uplinks.svg?color=teal
 
 Builds a tree of uplinks of an autonomous system.
 
